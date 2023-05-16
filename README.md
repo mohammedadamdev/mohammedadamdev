@@ -23,5 +23,5 @@ A versatile, hardworking individual, driven to meet or exceed a company's expect
 
 ### 📊 Stats
 
-| <a href="https://github.com/mohammedadamdev/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedadamdev&show_icons=true&theme=github_dark&hide_border=true" alt="Adam's github stats" /></a> | <a href="https://github.com/mohammedadamdev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadamdev&layout=compact&theme=github_dark&hide_border=true" /></a> |
+| <a href="https://github.com/mohammedadamdev/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedadamdev&show_icons=true&theme=github_light&hide_border=true" alt="Adam's github stats" /></a> | <a href="https://github.com/mohammedadamdev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadamdev&layout=compact&theme=github_light&hide_border=true" /></a> |
 | ------------- | ------------- |
