@@ -16,6 +16,9 @@ A versatile, hardworking individual, driven to meet or exceed a company's expect
 <img align="left" alt="Aws" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Azure DevOps" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Azure_DevOps_Logo.svg" />
+<img align="left" alt="Liquibase" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/liquibase/liquibase.github.io/main/assets/images/liquibase-logo.svg" />
+<img align="left" alt="OData" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/OData/odataorg.github.io/main/images/odata-logo.svg" />
 <br />
 
 
