@@ -28,5 +28,6 @@ A versatile, hardworking individual, driven to meet or exceed a company's expect
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=mohammedadamdev&show_icons=true&theme=github_light&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadamdev&layout=compact&theme=github_light&hide_border=true" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=mohammedadamdev&show_icons=true&include_all_commits=true&count_private=true&theme=github_light&hide_border=true&cache_seconds=86400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedadamdev&layout=compact&theme=github_light&hide_border=true&cache_seconds=86400" /> |
+
 
